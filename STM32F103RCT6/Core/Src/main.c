@@ -99,8 +99,7 @@ int main(void)
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
-		//lzj++
-		//ni hao ya
+	//I love you	
   }
   /* USER CODE END 3 */
 }
